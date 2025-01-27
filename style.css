@@ -1,0 +1,12 @@
+img {
+    width: 400px;
+    position: relative;
+    right: 40%;
+}
+
+body {
+    text-align: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(9, 255, 13);
+    color: rgb(12, 183, 146);
+}
